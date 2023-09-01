@@ -1,6 +1,7 @@
 # weather_project
 
-A new Flutter project.
+A new Flutter moblie app which uses openapi
+
 
 ## Getting Started
 
