@@ -7,6 +7,8 @@ A new Flutter moblie app which uses openapi
 
 This project is a starting point for a Flutter application.
 
+![Alt text](https://raw.githubusercontent.com/MBABHISHEK/weather_mobile_app/main/Screenshot%202023-09-01%20211540.png)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
